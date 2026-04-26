@@ -4,6 +4,8 @@
         "javascriptreact"
     ],
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": "always"
+        "source.fixAll.eslint": "always",
+        "source.removeUnusedImports": "always",
+        "source.organizeImports": "always"
     }
 }
